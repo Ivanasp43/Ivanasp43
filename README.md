@@ -1,4 +1,19 @@
-### Hi there 👋
+## Hola, mi nombre es Ivana Sánchez 👋 y soy una persona a la que le encanta aprender todo lo que esté relacionado con las nuevas tecnologías. 
+</br>
+
+[![Captura-desde-2024-04-01-20-11-39.png](https://i.postimg.cc/zXk6X4Br/Captura-desde-2024-04-01-20-11-39.png)](https://postimg.cc/gnnNgS8S)
+</br>
+
+### Durante mi vida laboral he sido administrativa durante 15 años y actualmente ejerzo  de cocinera en una multinacional desde el año 2010. En septiembre de 2023, me matriculo del grado superior de ASIR, el cual sigo preparando hoy en día para poder dar un nuevo giro a mi vida y dedicarme a ello en un fururo.
+
+</br>
+
+### Conocimientos adquidridos:
+
+### Conocimientos futuros:
+
+
+
 
 <!--
 **Ivanasp43/Ivanasp43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
