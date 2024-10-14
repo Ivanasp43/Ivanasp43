@@ -5,7 +5,7 @@
 
 </br>
 
-[![foto carnet](<a href="https://ibb.co/tzP4GKb"><img src="https://i.ibb.co/QkjfgQ6/Whats-App-Image-2024-10-14-at-20-33-55.jpg" alt="Whats-App-Image-2024-10-14-at-20-33-55" border="0"></a>)
+[![foto carnet](<a href="https://imgbb.com/"><img src="https://i.ibb.co/2tbgfYx/Imagen1.jpg" alt="Imagen1" border="0"></a>)
 </br>
 ### Este año realizo mi segundo año de ASIR, el cual espero terminar junto con las prácticas para poder empezar a trabajar.
 </br>
