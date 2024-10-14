@@ -5,10 +5,9 @@
 
 </br>
 
-[![Captura-desde-2024-04-01-20-11-39.png](https://i.postimg.cc/zXk6X4Br/Captura-desde-2024-04-01-20-11-39.png)](https://postimg.cc/gnnNgS8S)#
+[![foto carnet](<a href="https://ibb.co/tzP4GKb"><img src="https://i.ibb.co/QkjfgQ6/Whats-App-Image-2024-10-14-at-20-33-55.jpg" alt="Whats-App-Image-2024-10-14-at-20-33-55" border="0"></a>)
 </br>
-### Durante mi vida laboral he sido administrativa 15 años aunque actualmente ejerzo  de cocinera en una multinacional desde el año 2010. En septiembre de 2023, me matriculo del grado superior de ASIR, el cual sigo preparando hoy en día para poder dar un nuevo giro a mi vida y dedicarme a ello en un fururo.
-
+### Este año realizo mi segundo año de ASIR, el cual espero terminar junto con las prácticas para poder empezar a trabajar.
 </br>
 
 ### Conocimientos adquidridos:
@@ -23,6 +22,8 @@
 - JAVA
 - JAVASCRIPT
 - HTML
+- UNITY
+- DEVOPS
 - PYTHON
 - PLANIFICACIÓN Y ADMINSTRACIÓN DE REDES
 
