@@ -1,9 +1,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rock12231&label=Profile%20views&color=0e75b6&style=flat" alt="rock12231" /> </p>
 
 <h1>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="38px">, Soy Ivana Sánchez</h1>
-<h3 alinear="centro">Una estudiante apasionada de Sevilla</h3>
+<h3 align="center">Una estudiante apasionada de Sevilla</h3>
 
-<p alinear="centro"> Soy una persona a la que le encanta aprender todo lo que esté relacionado con las nuevas tecnologías. Y en este nuevo camino que he tomado, estoy emocionada por aprender nuevas habilidades y enfrentar nuevos desafíos en el mundo de la tecnología informática.
+<p align="center"> Soy una persona a la que le encanta aprender todo lo que esté relacionado con las nuevas tecnologías. Y en este nuevo camino que he tomado, estoy emocionada por aprender nuevas habilidades y enfrentar nuevos desafíos en el mundo de la tecnología informática.
 El ser testigo de la expansión de la informática me ha permitido considerar volver a estudiar, y actualmente me he tomado un año sabático para poder terminar el grado superior de ASIR.
 </br>
 
