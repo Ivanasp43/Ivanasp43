@@ -2,11 +2,8 @@
 
 <h1>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="38px">, Soy Ivana Sánchez</h1>
 
-<p align="center"> Soy una persona a la que le encanta aprender todo lo que esté relacionado con las nuevas tecnologías. Y en este nuevo camino que he tomado, estoy emocionada por aprender nuevas habilidades y enfrentar nuevos desafíos en el mundo tecnológico.
-
-
-
-## Actualmente me he tomado un año sabático para terminar el grado superior de ASIR.
+<p align="center"> Soy una persona a la que le encanta aprender todo lo que esté relacionado con las nuevas tecnologías. Y en este nuevo camino que he tomado, estoy emocionada por aprender nuevas habilidades y enfrentar nuevos desafíos en el mundo de la tecnología informática.
+El ser testigo de la expansión de la informática me ha permitido considerar volver a estudiar, y actualmente me he tomado un año sabático para terminar un grado superior de ASIR.
 </br>
 
 ### Conocimientos adquidridos:
