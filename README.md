@@ -8,7 +8,7 @@
 
 
 
-### Actualmente me he tomado un año sabático para terminar el grado superior de ASIR.
+## Actualmente me he tomado un año sabático para terminar el grado superior de ASIR.
 </br>
 
 ### Conocimientos adquidridos:
