@@ -84,10 +84,8 @@ El ser testigo de la expansión de la informática me ha permitido considerar vo
 <p align="center">
 <a href="https://www.linkedin.com/in/ivana-sanchez-perez-10b175165/" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="sarath-p-m" height="40" width="45" /></a> 
 &nbsp;<a href="ivanasp43@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/86669668/171339003-ef5b5c96-eac8-478c-a9cc-318ca9477fce.gif" alt="ivanasp43@gmail.com" width="40" /></a>      
-&nbsp;<a href="https://https://github.com/Ivanasp43" target="blank"><img align="center" src="https://user-images.githubusercontent.com/86669668/171338019-50f8c8de-e1ac-4651-b2cf-1901eceb2e51.gif" alt="sarath_pm" height="40" width="45"></a>
-
-
-<a href="https://www.facebook.com/home.php" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shamim.sikder.537" height="30" width="40" /></a>
+&nbsp;<a href="https://https://github.com/Ivanasp43" target="blank"><img align="center" src="https://user-images.githubusercontent.com/86669668/171338019-50f8c8de-e1ac-4651-b2cf-1901eceb2e51.gif" alt="ivanasp43" height="40" width="45"></a>
+<a href="https://www.facebook.com/home.php" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ivanasp43" height="40" width="45" /></a>
 </p>
 
 
