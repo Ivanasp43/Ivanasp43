@@ -67,7 +67,21 @@ El ser testigo de la expansión de la informática me ha permitido considerar vo
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🌱 Actualemtne estoy aprendiendo **Devops**, **Unity**, **Python** y **Markdown**
+- 🌱 Actualmente estoy aprendiendo **Devops**, **Unity**, **Python** y **Markdown**
+
+- ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
+
+ <em><b>I love connecting with different people,</b> so if you want to say <b>hi, I'd be delighted to meet you!</b>😃</em>
+ 
+<br>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/ivana-sanchez-perez-10b175165/" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="sarath-p-m" height="40" width="45" /></a> 
+&nbsp;<a href="ivanasp43@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/86669668/171339003-ef5b5c96-eac8-478c-a9cc-318ca9477fce.gif" alt="ivanasp43@gmail.com" width="40" /></a>      
+&nbsp;<a href="https://https://github.com/Ivanasp43/Ivanasp43/edit/main/README.md" target="blank"><img align="center" src="https://user-images.githubusercontent.com/86669668/171338019-50f8c8de-e1ac-4651-b2cf-1901eceb2e51.gif" alt="sarath_pm" height="40" width="45"></a>
+
+
+  
 
 
 
