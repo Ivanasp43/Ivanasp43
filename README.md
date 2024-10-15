@@ -8,11 +8,11 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Welcome+to+my+GitHub+profile...!)
 
 </div>
-<br>
+
 
 <p align="center"> Soy una persona a la que le encanta aprender todo lo que esté relacionado con las nuevas tecnologías. Y en este nuevo camino que he escogido, estoy emocionada por aprender nuevas habilidades y enfrentar nuevos desafíos en el mundo de la tecnología informática.</p>
 <p align="center"> El ser testigo de la expansión de esta ciencia, me ha permitido considerar volver a estudiar, y actualmente me he tomado un año sabático para poder terminar el grado superior de ASIR que empece el año pasado</p>
-</br>
+
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
@@ -78,7 +78,7 @@
 
 - ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Conectate conmigo</b>
 
- <em><b> Me encanta conectar con diferentes personas. Así que, si quieres saludarme, voy a estar encantada de conocerte</b>😃</em>
+ <em><b> Siempre me ha gustado conectar con diferentes personas así que, si quieres saludarme, voy a estar encantada de conocerte</b>😃</em>
  
 <br>
 
