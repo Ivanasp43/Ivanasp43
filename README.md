@@ -75,7 +75,7 @@ El ser testigo de la expansión de la informática me ha permitido considerar vo
 
 - 🌱 Actualmente estoy aprendiendo **Devops**, **Unity**, **Python** y **Markdown**
 
-- ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
+- ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Conectate conmigo</b>
 
  <em><b> Me encanta conectar con diferentes personas,</b> así que si quieres saludarme, <b> estaré encantada de conocerte</b>😃</em>
  
