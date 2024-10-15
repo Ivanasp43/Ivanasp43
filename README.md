@@ -4,7 +4,7 @@
 
 <p align="center"> Soy una persona a la que le encanta aprender todo lo que esté relacionado con las nuevas tecnologías.
 ¡Bienvenidos a mi nuevo camino!
-## ¡Estoy emocionada por aprender nuevas habilidades y enfrentar nuevos desafíos en el mundo tecnológico!
+<p align="center">¡Estoy emocionada por aprender nuevas habilidades y enfrentar nuevos desafíos en el mundo tecnológico!
 
 
 
