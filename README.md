@@ -1,13 +1,14 @@
-## Hola, mi nombre es Ivana Sánchez 👋 y soy una persona a la que le encanta aprender todo lo que esté relacionado con las nuevas tecnologías.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rock12231&label=Profile%20views&color=0e75b6&style=flat" alt="rock12231" /> </p>
+
+<h1>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="38px">, Soy Ivana Sánchez</h1>
+
+<p align="center"> Soy una persona a la que le encanta aprender todo lo que esté relacionado con las nuevas tecnologías.
 ## ¡Bienvenidos a mi nuevo camino!
-## ¡Estoy emocionada por aprender nuevas habilidades y enfrentar nuevos desafíos en el mundo de la tecnología!
+## ¡Estoy emocionada por aprender nuevas habilidades y enfrentar nuevos desafíos en el mundo tecnológico!
 
 
-</br>
 
-[![foto carnet](<a href="https://imgbb.com/"><img src="https://i.ibb.co/2tbgfYx/Imagen1.jpg" alt="Imagen1" border="0"></a>)
-</br>
-### Este año realizo mi segundo año de ASIR, el cual espero terminar junto con las prácticas para poder empezar a trabajar.
+### Actualmente me he tomado un año sabático para terminar el grado superior de ASIR.
 </br>
 
 ### Conocimientos adquidridos:
