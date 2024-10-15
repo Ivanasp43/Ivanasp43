@@ -77,7 +77,7 @@ El ser testigo de la expansión de la informática me ha permitido considerar vo
 
 - ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Conectate conmigo</b>
 
- <em><b> Me encanta conectar con diferentes personas,</b> así que si quieres saludarme, <b> estaré encantada de conocerte</b>😃</em>
+ <em><b> Me encanta conectar con diferentes personas. Así que si quieres saludarme, estaré encantada de conocerte</b>😃</em>
  
 <br>
 
