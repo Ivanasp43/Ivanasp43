@@ -87,6 +87,10 @@ El ser testigo de la expansión de la informática me ha permitido considerar vo
 &nbsp;<a href="https://https://github.com/Ivanasp43" target="blank"><img align="center" src="https://user-images.githubusercontent.com/86669668/171338019-50f8c8de-e1ac-4651-b2cf-1901eceb2e51.gif" alt="sarath_pm" height="40" width="45"></a>
 
 
+<a href="https://www.facebook.com/home.php" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shamim.sikder.537" height="30" width="40" /></a>
+</p>
+
+
   
 
 
