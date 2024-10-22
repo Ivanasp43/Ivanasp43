@@ -1,7 +1,7 @@
 
 
-<h1> Hola <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="38px">, Soy Ivana Sánchez</h1>
-<h3 align="center">Una estudiante inquieta de Sevilla</h3>
+# Hola <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="38px">, Soy Ivana Sánchez</h1>
+#### align="center">Una estudiante inquieta de Sevilla
 
 <div align="center">
   
