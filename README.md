@@ -76,7 +76,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **Devops**, **Unity**, **Python**, **Markdown** y **Blande**
 
-- ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Conectate conmigo</b>
+- ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Contacta conmigo</b>
 
  <em><b> Siempre me ha gustado conectar con diferentes personas así que, si quieres saludarme, voy a estar encantada de conocerte</b>😃</em>
  
