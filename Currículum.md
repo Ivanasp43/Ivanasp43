@@ -8,10 +8,11 @@
    Soy una persona con gran flexibilidad, adaptabilidad y empatía. Poseo habilidades, comunicativas y una gran capacidad para el trabajo, la creatividad y las relaciones interpersonales, además de poseer una capacidad organizativa impecable
    Siempre he trabajado muy bien en equipo y creo que sé tomar las decisiones adecuadas, resolver problemas y motivar a otros de una manera efectiva 
 
-# EXPERIENCIA _______________________________________________________________
+# EXPERIENCIA __________________________________________________________________________
 
 ## 1.  DIRECTORA DE COCINA
  ### 2013-2024   Serunión, SA
+ 
     - Elaboración de menús
     - Control de albaranes costes y facturación
     - Resolución de incidencias
@@ -24,6 +25,7 @@
   
 ## 2.  PROPIETARIA Y GERENTE 
 ### 2007-2013   Restaurante la Manduka
+
     - Gestión de RRHH
     - elaboración de presupuestos
     - Control de cajas
@@ -31,13 +33,14 @@
   
 ## 3.  GESTORA ADMINISTRATIVA
  ### 1990-2004   Gestoría Silva
+ 
     - Nóminas
     - Contratos
     - Altas y bajas en la Seguridad Social
     - Organización del trabajo
 
-# FORMACIÓN _________________________________________________________________
-- ## FP GRADO SUPERIOR EN ASIR
+# FORMACIÓN __________________________________________________________________________
+## FP GRADO SUPERIOR EN ASIR
 IES Rodrigo Caro
 
 
