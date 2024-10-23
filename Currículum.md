@@ -69,10 +69,7 @@ ____________________________________________________________________________
 - SAP
 - Blender
 
-<p>Purple</p>
-</p>
-<p>Purple<br>
-<img src="src/assets/preview/resume-purple.png" width="150" style="margin-right:5px; border: 1px solid #ccc;" />
+background: -webkit-linear-gradient(90deg, #871ff7,#b450ee,#d27be9);background: linear-gradient(90deg, #871ff7,#b450ee,#d27be9);
 
 
 
