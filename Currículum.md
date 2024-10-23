@@ -1,7 +1,6 @@
-<div style="background-color: purple; text-align: center; padding: 20px;">
-  <h1>IVANA SÁNCHEZ PÉREZ</h1>
-  <h2>Dirección y gestión de cocina</h2>
-</div>
+
+# <p align="center"> *IVANA SÁNCHEZ PÉREZ*
+## <p align="center"> *Dirección y gestión de cocina*
 
 # SOBRE MÍ 
 
