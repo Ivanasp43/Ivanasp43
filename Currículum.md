@@ -1,6 +1,6 @@
 ```
 
-# **IVANA SÁNCHEZ PÉREZ
+# ** IVANA SÁNCHEZ PÉREZ
 **Dirección y gestión de cocina
 
 # SOBRE MÍ 
