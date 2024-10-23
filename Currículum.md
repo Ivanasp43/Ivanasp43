@@ -1,5 +1,7 @@
+<div style="background-color: purple; color white; padding: 10px; border-radius: 5px;">
 # <p align="center">*IVANA SÁNCHEZ PÉREZ*
 ## <p align="center">*Dirección y gestión de cocina*
+</div>
 # SOBRE MÍ 
 
    Soy una persona con gran flexibilidad, adaptabilidad y empatía. Poseo habilidades, comunicativas y una gran capacidad para el trabajo, la creatividad y las relaciones interpersonales, además de poseer una capacidad organizativa impecable
@@ -10,7 +12,7 @@
 ____________________________________________________________________________
 
 ## 1.  DIRECTORA DE COCINA
- ### 2013-2024   Serunión, SA**
+ ### 2013-2024   Serunión, SA
  
     - Elaboración de menús
     - Control de albaranes costes y facturación
@@ -41,7 +43,7 @@ ____________________________________________________________________________
 # FORMACIÓN
 ____________________________________________________________________________
 ## FP GRADO SUPERIOR EN ASIR
-IES Rodrigo Caro
+ ### IES Rodrigo Caro
 
 
 
