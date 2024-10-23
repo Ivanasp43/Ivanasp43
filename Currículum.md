@@ -70,7 +70,7 @@ ____________________________________________________________________________
 - Blender
 
 
-<span style ="color🟪">some *purple* text</span>
+<span style ="color🟪"></span>
 
 
 
