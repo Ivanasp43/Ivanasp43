@@ -1,7 +1,8 @@
-<div style="background-color: purple; color white; padding: 10px; border-radius: 5px;">
-# <p align="center">*IVANA SÁNCHEZ PÉREZ*
-## <p align="center">*Dirección y gestión de cocina*
+<div style="background-color: purple; text-align: center; padding: 20px;">
+  <h1>IVANA SÁNCHEZ PÉREZ</h1>
+  <h2>Dirección y gestión de cocina</h2>
 </div>
+
 # SOBRE MÍ 
 
    Soy una persona con gran flexibilidad, adaptabilidad y empatía. Poseo habilidades, comunicativas y una gran capacidad para el trabajo, la creatividad y las relaciones interpersonales, además de poseer una capacidad organizativa impecable
