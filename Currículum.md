@@ -10,7 +10,7 @@
 
 # EXPERIENCIA _______________________________________________________________
 
-1. ## DIRECTORA DE COCINA
+## 1.  DIRECTORA DE COCINA
  ### 2013-2024   Serunión, SA
     - Elaboración de menús
     - Control de albaranes costes y facturación
@@ -22,14 +22,14 @@
     - Elaboración de cuadrantes
     - Habilidades organizativas
   
-2. ## PROPIETARIA Y GERENTE 
+## 2.  PROPIETARIA Y GERENTE 
 ### 2007-2013   Restaurante la Manduka
     - Gestión de RRHH
     - elaboración de presupuestos
     - Control de cajas
     - Acciones comerciales en redes sociales y otras plataformas
   
-3. ## GESTORA ADMINISTRATIVA
+## 3.  GESTORA ADMINISTRATIVA
  ### 1990-2004   Gestoría Silva
     - Nóminas
     - Contratos
