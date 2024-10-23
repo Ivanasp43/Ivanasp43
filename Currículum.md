@@ -8,7 +8,7 @@
    Soy una persona con gran flexibilidad, adaptabilidad y empatía. Poseo habilidades, comunicativas y una gran capacidad para el trabajo, la creatividad y las relaciones interpersonales, además de poseer una capacidad organizativa impecable
    Siempre he trabajado muy bien en equipo y creo que sé tomar las decisiones adecuadas, resolver problemas y motivar a otros de una manera efectiva 
 
-# EXPERIENCIA ________________________________________________________________________________
+# EXPERIENCIA _____________________________________________________________________________
 
 ## 1.  DIRECTORA DE COCINA
  ### 2013-2024   Serunión, SA
@@ -39,7 +39,7 @@
     - Altas y bajas en la Seguridad Social
     - Organización del trabajo
 
-# FORMACIÓN ________________________________________________________________________________
+# FORMACIÓN _____________________________________________________________________________
 ## FP GRADO SUPERIOR EN ASIR
 IES Rodrigo Caro
 
