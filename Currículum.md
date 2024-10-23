@@ -70,6 +70,6 @@ ____________________________________________________________________________
 - Blender
 
 
-
+<font color="blue">Este texto debería ser azul.</font>
 
 
