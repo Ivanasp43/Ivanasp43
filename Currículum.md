@@ -1,8 +1,8 @@
 
 # <p align="center"> *IVANA SÁNCHEZ PÉREZ*
-## <p align="center"> *Dirección y gestión de cocina*
+## <p align="center"> *Dirección y gestión de cocina* 👩‍🍳
 
-# SOBRE MÍ ☺
+# SOBRE MÍ 😃
 
    Soy una persona con gran flexibilidad, adaptabilidad y empatía. Poseo habilidades, comunicativas y una gran capacidad para el trabajo, la creatividad y las relaciones interpersonales, además de poseer una capacidad organizativa impecable
    Siempre he trabajado muy bien en equipo y creo que sé tomar las decisiones adecuadas, resolver problemas y motivar a otros de una manera efectiva 
