@@ -69,9 +69,8 @@ ____________________________________________________________________________
 - SAP
 - Blender
 
-background: -webkit-linear-gradient(90deg, #871ff7,#b450ee,#d27be9);background: linear-gradient(90deg, #871ff7,#b450ee,#d27be9);
 
-
+<span style ="color🟪"
 
 
 
