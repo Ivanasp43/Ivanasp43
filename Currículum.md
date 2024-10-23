@@ -69,11 +69,12 @@ ____________________________________________________________________________
 - SAP
 - Blender
 
-
-
 <p>Purple</p>
 </p>
 <p>Purple<br>
+<img src="src/assets/preview/resume-purple.png" width="150" style="margin-right:5px; border: 1px solid #ccc;" />
+
+
 
 
 
