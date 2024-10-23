@@ -2,7 +2,7 @@
 # <p align="center"> *IVANA SÁNCHEZ PÉREZ*
 ## <p align="center"> *Dirección y gestión de cocina*
 
-# SOBRE MÍ 
+# SOBRE MÍ ☺
 
    Soy una persona con gran flexibilidad, adaptabilidad y empatía. Poseo habilidades, comunicativas y una gran capacidad para el trabajo, la creatividad y las relaciones interpersonales, además de poseer una capacidad organizativa impecable
    Siempre he trabajado muy bien en equipo y creo que sé tomar las decisiones adecuadas, resolver problemas y motivar a otros de una manera efectiva 
@@ -40,7 +40,7 @@ ____________________________________________________________________________
     - Altas y bajas en la Seguridad Social
     - Organización del trabajo
 
-# FORMACIÓN
+# FORMACIÓN  📚
 ____________________________________________________________________________
 
 ## FP GRADO SUPERIOR EN ASIR
@@ -70,7 +70,6 @@ ____________________________________________________________________________
 - Blender
 
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Aditya Kanoi</h2>
 
 
 
