@@ -8,7 +8,7 @@
    Siempre he trabajado muy bien en equipo y creo que sé tomar las decisiones adecuadas, resolver problemas y motivar a otros de una manera efectiva 
 ---
 
-# EXPERIENCIA PROFESIONAL
+# <font color="purple">EXPERIENCIA PROFESIONAL</font>
 ____________________________________________________________________________
 
 ## 1.  DIRECTORA DE COCINA
