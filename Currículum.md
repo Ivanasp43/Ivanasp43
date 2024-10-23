@@ -10,7 +10,7 @@
 ____________________________________________________________________________
 
 ## 1.  DIRECTORA DE COCINA
-    2013-2024   **[Serunión, SA]**
+ **2013-2024   Serunión, SA**
  
     - Elaboración de menús
     - Control de albaranes costes y facturación
