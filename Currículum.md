@@ -42,8 +42,31 @@ ____________________________________________________________________________
 
 # FORMACIÓN
 ____________________________________________________________________________
+
 ## FP GRADO SUPERIOR EN ASIR
  ### IES Rodrigo Caro
+     2023-Actualmente
+## DIRECCIÓN DE COCINA
+ ### Junta de Andalucía
+     2023-2024 
+     Certificado de profesionalidad
+## TÉCNICO DE PROTOCOLO, RESTAURACIÓN Y ORGANIZACIÓN DE EVENTOS
+ ### Universidad Católica de Ávila
+     2017-2018
+## BACHILLERATO
+ ### IES Velázquez
+     1983-1987
+
+# CURSOS
+____________________________________________________________________________
+
+- Programación Realidad Virtual y Aumentada
+- Programación Inteligencia Artificial y Big Data
+- Big Data y Bussiness Inteligence
+- Ofimática
+- Power Shell
+- Pithon
+- SAP
 
 
 
