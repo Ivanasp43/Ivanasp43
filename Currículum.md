@@ -40,7 +40,7 @@ ____________________________________________________________________________
     - Altas y bajas en la Seguridad Social
     - Organización del trabajo
 
-# FORMACIÓN  📚
+# FORMACIÓN <img="https://github.com/user-attachments/assets/304c0aa2-cbe1-4a30-a0ab-c7e7cd0686da" 
 ____________________________________________________________________________
 
 ## FP GRADO SUPERIOR EN ASIR
@@ -57,7 +57,7 @@ ____________________________________________________________________________
  ### IES Velázquez
      1983-1987
 
-# CURSOS
+# CURSOS 📚
 ____________________________________________________________________________
 
 - Programación Realidad Virtual y Aumentada
