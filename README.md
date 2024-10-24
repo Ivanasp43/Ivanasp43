@@ -11,7 +11,7 @@
 
 
 <p align="center"> Soy una persona a la que le encanta aprender todo lo que esté relacionado con las nuevas tecnologías. Y en este nuevo camino que he escogido, estoy emocionada por aprender nuevas habilidades y enfrentar nuevos desafíos en el mundo de la tecnología informática.</p>
-<p align="center"> El ser testigo de la expansión de esta ciencia, me ha permitido considerar volver a estudiar, y actualmente me he tomado un año sabático para poder terminar el grado superior de ASIR que empece el año pasado</p>          <img src= "https://github.com/user-attachments/assets/34e22899-04ce-466e-b7bf-d8bae97c1141" alt="icon" width="70" height="70" /> 
+<p align="center"> El ser testigo de la expansión de esta ciencia, me ha permitido considerar volver a estudiar, y actualmente me he tomado un año sabático para poder terminar el grado superior de ASIR que empece el año pasado</p>         **Ver mi Currículum** <img src= "https://github.com/user-attachments/assets/34e22899-04ce-466e-b7bf-d8bae97c1141" alt="icon" width="70" height="70" /> 
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
@@ -44,7 +44,7 @@
 
    - 💾 Bases de datos:
 
-    ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) 
+    ![MongoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) 
     ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
     ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
     
@@ -61,8 +61,8 @@
 
       🥅 Otros:
 
-    ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-    ![Adobe Lightroom](https://img.shields.io/badge/MáquinasVirtuales-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+    ![Blender](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+    ![Big Data](https://img.shields.io/badge/MáquinasVirtuales-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
     ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
     ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
     
