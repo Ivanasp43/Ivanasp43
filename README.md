@@ -11,7 +11,7 @@
 
 
 <p align="center"> Soy una persona a la que le encanta aprender todo lo que esté relacionado con las nuevas tecnologías. Y en este nuevo camino que he escogido, estoy emocionada por aprender nuevas habilidades y enfrentar nuevos desafíos en el mundo de la tecnología informática.</p>
-<p align="center"> El ser testigo de la expansión de esta ciencia, me ha permitido considerar volver a estudiar, y actualmente me he tomado un año sabático para poder terminar el grado superior de ASIR que empece el año pasado</p>          <img src= "https://github.com/user-attachments/assets/34e22899-04ce-466e-b7bf-d8bae97c1141" 
+<p align="center"> El ser testigo de la expansión de esta ciencia, me ha permitido considerar volver a estudiar, y actualmente me he tomado un año sabático para poder terminar el grado superior de ASIR que empece el año pasado</p>          <img src= "https://github.com/user-attachments/assets/34e22899-04ce-466e-b7bf-d8bae97c1141" alt="icon" width="70" height="70" /> 
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
