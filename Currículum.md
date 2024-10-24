@@ -40,7 +40,7 @@ ____________________________________________________________________________
     - Altas y bajas en la Seguridad Social
     - Organización del trabajo
 
-# FORMACIÓN <img src="https://github.com/user-attachments/assets/304c0aa2-cbe1-4a30-a0ab-c7e7cd0686da" 
+# FORMACIÓN <img src="https://github.com/user-attachments/assets/304c0aa2-cbe1-4a30-a0ab-c7e7cd0686da" alt
 ____________________________________________________________________________
 
 ## FP GRADO SUPERIOR EN ASIR
