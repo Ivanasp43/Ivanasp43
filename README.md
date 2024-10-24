@@ -13,7 +13,7 @@
 <p align="center"> Soy una persona a la que le encanta aprender todo lo que esté relacionado con las nuevas tecnologías. Y en este nuevo camino que he escogido, estoy emocionada por aprender nuevas habilidades y enfrentar nuevos desafíos en el mundo de la tecnología informática.</p>
 <p align="center"> El ser testigo de la expansión de esta ciencia, me ha permitido considerar volver a estudiar, y actualmente me he tomado un año sabático para poder terminar el grado superior de ASIR que empece el año pasado</p> 
 
-**Ver mi Currículum** [https://github.com/Ivanasp43/Ivanasp43/blob/main/Curr%C3%ADculum.md] <img src= "https://github.com/user-attachments/assets/34e22899-04ce-466e-b7bf-d8bae97c1141" alt="icon" width="70" height="70" /> 
+**Ver mi Currículum**  <img src= "https://github.com/user-attachments/assets/34e22899-04ce-466e-b7bf-d8bae97c1141" alt="icon" width="70" height="70" /> ([https://github.com/Ivanasp43/Ivanasp43/blob/main/Curr%C3%ADculum.md])
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
