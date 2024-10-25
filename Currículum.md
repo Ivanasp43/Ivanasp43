@@ -5,12 +5,13 @@
 # SOBRE MÍ 😃
 
 ````
-   Soy una persona con gran flexibilidad, adaptabilidad y empatía.
+        Soy una persona con gran flexibilidad, adaptabilidad y empatía.
  Poseo habilidades, comunicativas y una gran capacidad para el trabajo,
- la creatividad y las relaciones interpersonales, además de poseer una
+ la creatividad y las  relaciones interpersonales, además de poseer una
  capacidad organizativa impecable
-   Siempre he trabajado muy bien en equipo y creo que sé tomar las decisiones
- adecuadas, resolver problemas y motivar a otros de una manera efectiva.
+        Siempre he trabajado muy bien en equipo y creo que sé tomar las
+decisiones adecuadas, resolver problemas y motivar a otros de una manera
+efectiva.
 ````
 
 # EXPERIENCIA PROFESIONAL <img src="https://github.com/user-attachments/assets/fc14088e-e486-4ebe-be57-5bf8b395fc9e" alt="icon" width="50" height="50" />
