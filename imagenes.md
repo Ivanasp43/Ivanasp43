@@ -1,1 +1,5 @@
 ![monitorización](https://github.com/user-attachments/assets/a48514cc-cc64-456d-8eab-4bbb80508054)
+![nginxVSapache2](https://github.com/user-attachments/assets/f99e7a0a-cf29-4343-ab4d-8b442f1a7a49)
+![nginxVSapache](https://github.com/user-attachments/assets/b62be518-644d-416c-8097-246ba9890d5d)
+![images-nginx](https://github.com/user-attachments/assets/a5a90721-ead5-4d8d-ada1-8a5f59729e22)
+![nginx](https://github.com/user-attachments/assets/d504ebd3-ad71-4cf5-88be-97c1f84d3529)
